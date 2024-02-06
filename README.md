@@ -1,4 +1,4 @@
-## A Circumferance Calculator App
+## A Circumference Calculator App
 
 # Technology used
 
@@ -6,7 +6,7 @@ HTML | CSS | JavaScript
 
 # Purpose
 
-A calculator that takes a radius and calculates the circuferance using JavaScript.
+An app that takes the radius of a circle and calculates the circumference using JavaScript.
 
 # See it live
 
